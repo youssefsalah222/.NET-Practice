@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\bin\Debug\net6.0\Stack Trace.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\bin\Debug\net6.0\Stack Trace.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\bin\Debug\net6.0\Stack Trace.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\bin\Debug\net6.0\Stack Trace.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\bin\Debug\net6.0\Stack Trace.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\obj\Debug\net6.0\Stack Trace.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\obj\Debug\net6.0\Stack Trace.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\obj\Debug\net6.0\Stack Trace.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\obj\Debug\net6.0\Stack Trace.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\obj\Debug\net6.0\Stack Trace.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\obj\Debug\net6.0\refint\Stack Trace.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\obj\Debug\net6.0\Stack Trace.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\obj\Debug\net6.0\Stack Trace.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Stack Trace\obj\Debug\net6.0\ref\Stack Trace.dll

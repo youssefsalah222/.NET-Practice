@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\bin\Debug\net6.0\Arrays.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\bin\Debug\net6.0\Arrays.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\bin\Debug\net6.0\Arrays.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\bin\Debug\net6.0\Arrays.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\bin\Debug\net6.0\Arrays.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\obj\Debug\net6.0\Arrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\obj\Debug\net6.0\Arrays.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\obj\Debug\net6.0\Arrays.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\obj\Debug\net6.0\Arrays.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\obj\Debug\net6.0\refint\Arrays.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\obj\Debug\net6.0\Arrays.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\obj\Debug\net6.0\Arrays.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Arrays\obj\Debug\net6.0\ref\Arrays.dll

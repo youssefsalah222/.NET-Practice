@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\bin\Debug\net6.0\Functions.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\bin\Debug\net6.0\Functions.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\bin\Debug\net6.0\Functions.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\bin\Debug\net6.0\Functions.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\bin\Debug\net6.0\Functions.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\obj\Debug\net6.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\obj\Debug\net6.0\Functions.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\obj\Debug\net6.0\Functions.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\obj\Debug\net6.0\Functions.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\obj\Debug\net6.0\Functions.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\obj\Debug\net6.0\refint\Functions.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\obj\Debug\net6.0\Functions.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\obj\Debug\net6.0\Functions.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Functions\obj\Debug\net6.0\ref\Functions.dll

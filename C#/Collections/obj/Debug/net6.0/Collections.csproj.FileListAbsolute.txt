@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\bin\Debug\net6.0\Collections.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\bin\Debug\net6.0\Collections.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\bin\Debug\net6.0\Collections.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\bin\Debug\net6.0\Collections.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\bin\Debug\net6.0\Collections.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\obj\Debug\net6.0\Collections.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\obj\Debug\net6.0\Collections.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\obj\Debug\net6.0\Collections.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\obj\Debug\net6.0\Collections.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\obj\Debug\net6.0\Collections.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\obj\Debug\net6.0\refint\Collections.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\obj\Debug\net6.0\Collections.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\obj\Debug\net6.0\Collections.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Collections\obj\Debug\net6.0\ref\Collections.dll

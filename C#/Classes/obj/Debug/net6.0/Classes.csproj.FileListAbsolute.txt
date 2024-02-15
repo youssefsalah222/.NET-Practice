@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\bin\Debug\net6.0\Classes.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\bin\Debug\net6.0\Classes.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\bin\Debug\net6.0\Classes.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\bin\Debug\net6.0\Classes.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\bin\Debug\net6.0\Classes.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\obj\Debug\net6.0\Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\obj\Debug\net6.0\Classes.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\obj\Debug\net6.0\Classes.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\obj\Debug\net6.0\Classes.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\obj\Debug\net6.0\Classes.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\obj\Debug\net6.0\refint\Classes.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\obj\Debug\net6.0\Classes.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\obj\Debug\net6.0\Classes.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Classes\obj\Debug\net6.0\ref\Classes.dll

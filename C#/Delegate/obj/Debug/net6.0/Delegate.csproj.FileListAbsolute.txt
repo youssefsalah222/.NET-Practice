@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\bin\Debug\net6.0\Delegate.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\bin\Debug\net6.0\Delegate.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\bin\Debug\net6.0\Delegate.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\bin\Debug\net6.0\Delegate.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\bin\Debug\net6.0\Delegate.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\obj\Debug\net6.0\Delegate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\obj\Debug\net6.0\Delegate.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\obj\Debug\net6.0\Delegate.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\obj\Debug\net6.0\Delegate.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\obj\Debug\net6.0\refint\Delegate.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\obj\Debug\net6.0\Delegate.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\obj\Debug\net6.0\Delegate.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Delegate\obj\Debug\net6.0\ref\Delegate.dll

@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\obj\Debug\net6.0\Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\obj\Debug\net6.0\Enum.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\obj\Debug\net6.0\Enum.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\obj\Debug\net6.0\Enum.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\bin\Debug\net6.0\Enum.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\bin\Debug\net6.0\Enum.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\bin\Debug\net6.0\Enum.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\bin\Debug\net6.0\Enum.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\bin\Debug\net6.0\Enum.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\obj\Debug\net6.0\Enum.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\obj\Debug\net6.0\refint\Enum.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\obj\Debug\net6.0\Enum.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\obj\Debug\net6.0\Enum.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Enum\obj\Debug\net6.0\ref\Enum.dll

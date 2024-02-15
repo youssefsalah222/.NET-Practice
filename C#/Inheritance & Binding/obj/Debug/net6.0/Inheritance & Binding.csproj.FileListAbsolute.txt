@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\bin\Debug\net6.0\Inheritance & Binding.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\bin\Debug\net6.0\Inheritance & Binding.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\bin\Debug\net6.0\Inheritance & Binding.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\bin\Debug\net6.0\Inheritance & Binding.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\bin\Debug\net6.0\Inheritance & Binding.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\obj\Debug\net6.0\Inheritance & Binding.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\obj\Debug\net6.0\Inheritance & Binding.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\obj\Debug\net6.0\Inheritance & Binding.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\obj\Debug\net6.0\Inheritance & Binding.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\obj\Debug\net6.0\Inheritance & Binding.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\obj\Debug\net6.0\refint\Inheritance & Binding.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\obj\Debug\net6.0\Inheritance & Binding.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\obj\Debug\net6.0\Inheritance & Binding.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Inheritance & Binding\obj\Debug\net6.0\ref\Inheritance & Binding.dll

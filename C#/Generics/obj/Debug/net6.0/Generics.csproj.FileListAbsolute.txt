@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\bin\Debug\net6.0\Generics.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\bin\Debug\net6.0\Generics.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\bin\Debug\net6.0\Generics.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\bin\Debug\net6.0\Generics.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\bin\Debug\net6.0\Generics.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\obj\Debug\net6.0\Generics.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\obj\Debug\net6.0\Generics.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\obj\Debug\net6.0\Generics.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\obj\Debug\net6.0\Generics.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\obj\Debug\net6.0\Generics.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\obj\Debug\net6.0\refint\Generics.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\obj\Debug\net6.0\Generics.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\obj\Debug\net6.0\Generics.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Generics\obj\Debug\net6.0\ref\Generics.dll

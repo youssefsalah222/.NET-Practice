@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\bin\Debug\net6.0\Deep & Shallow Copy.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\bin\Debug\net6.0\Deep & Shallow Copy.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\bin\Debug\net6.0\Deep & Shallow Copy.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\bin\Debug\net6.0\Deep & Shallow Copy.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\bin\Debug\net6.0\Deep & Shallow Copy.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\obj\Debug\net6.0\Deep & Shallow Copy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\obj\Debug\net6.0\Deep & Shallow Copy.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\obj\Debug\net6.0\Deep & Shallow Copy.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\obj\Debug\net6.0\Deep & Shallow Copy.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\obj\Debug\net6.0\Deep & Shallow Copy.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\obj\Debug\net6.0\refint\Deep & Shallow Copy.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\obj\Debug\net6.0\Deep & Shallow Copy.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\obj\Debug\net6.0\Deep & Shallow Copy.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Deep & Shallow Copy\obj\Debug\net6.0\ref\Deep & Shallow Copy.dll

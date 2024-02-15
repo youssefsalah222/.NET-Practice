@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\bin\Debug\net6.0\OperatorsOverloading.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\bin\Debug\net6.0\OperatorsOverloading.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\bin\Debug\net6.0\OperatorsOverloading.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\bin\Debug\net6.0\OperatorsOverloading.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\bin\Debug\net6.0\OperatorsOverloading.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\obj\Debug\net6.0\OperatorsOverloading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\obj\Debug\net6.0\OperatorsOverloading.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\obj\Debug\net6.0\OperatorsOverloading.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\obj\Debug\net6.0\OperatorsOverloading.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\obj\Debug\net6.0\OperatorsOverloading.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\obj\Debug\net6.0\refint\OperatorsOverloading.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\obj\Debug\net6.0\OperatorsOverloading.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\obj\Debug\net6.0\OperatorsOverloading.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\OperatorsOverloading\obj\Debug\net6.0\ref\OperatorsOverloading.dll

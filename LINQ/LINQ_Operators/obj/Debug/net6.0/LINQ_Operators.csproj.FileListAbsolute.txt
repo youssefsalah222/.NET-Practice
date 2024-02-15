@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\bin\Debug\net6.0\LINQ_Operators.exe
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\bin\Debug\net6.0\LINQ_Operators.deps.json
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\bin\Debug\net6.0\LINQ_Operators.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\bin\Debug\net6.0\LINQ_Operators.dll
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\bin\Debug\net6.0\LINQ_Operators.pdb
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\obj\Debug\net6.0\LINQ_Operators.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\obj\Debug\net6.0\LINQ_Operators.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\obj\Debug\net6.0\LINQ_Operators.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\obj\Debug\net6.0\LINQ_Operators.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\obj\Debug\net6.0\LINQ_Operators.dll
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\obj\Debug\net6.0\refint\LINQ_Operators.dll
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\obj\Debug\net6.0\LINQ_Operators.pdb
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\obj\Debug\net6.0\LINQ_Operators.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\LINQ\LINQ_Operators\obj\Debug\net6.0\ref\LINQ_Operators.dll

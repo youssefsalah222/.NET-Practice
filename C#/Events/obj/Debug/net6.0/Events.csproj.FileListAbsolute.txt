@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\bin\Debug\net6.0\Events.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\bin\Debug\net6.0\Events.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\bin\Debug\net6.0\Events.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\bin\Debug\net6.0\Events.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\bin\Debug\net6.0\Events.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\obj\Debug\net6.0\Events.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\obj\Debug\net6.0\Events.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\obj\Debug\net6.0\Events.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\obj\Debug\net6.0\Events.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\obj\Debug\net6.0\Events.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\obj\Debug\net6.0\refint\Events.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\obj\Debug\net6.0\Events.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\obj\Debug\net6.0\Events.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Events\obj\Debug\net6.0\ref\Events.dll

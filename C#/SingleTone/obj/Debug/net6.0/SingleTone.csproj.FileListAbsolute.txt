@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\obj\Debug\net6.0\SingleTone.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\obj\Debug\net6.0\SingleTone.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\obj\Debug\net6.0\SingleTone.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\obj\Debug\net6.0\SingleTone.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\bin\Debug\net6.0\SingleTone.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\bin\Debug\net6.0\SingleTone.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\bin\Debug\net6.0\SingleTone.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\bin\Debug\net6.0\SingleTone.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\bin\Debug\net6.0\SingleTone.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\obj\Debug\net6.0\SingleTone.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\obj\Debug\net6.0\refint\SingleTone.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\obj\Debug\net6.0\SingleTone.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\obj\Debug\net6.0\SingleTone.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\SingleTone\obj\Debug\net6.0\ref\SingleTone.dll

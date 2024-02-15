@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\bin\Debug\net6.0\EventsEX2.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\bin\Debug\net6.0\EventsEX2.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\bin\Debug\net6.0\EventsEX2.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\bin\Debug\net6.0\EventsEX2.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\bin\Debug\net6.0\EventsEX2.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\obj\Debug\net6.0\EventsEX2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\obj\Debug\net6.0\EventsEX2.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\obj\Debug\net6.0\EventsEX2.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\obj\Debug\net6.0\EventsEX2.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\obj\Debug\net6.0\EventsEX2.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\obj\Debug\net6.0\refint\EventsEX2.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\obj\Debug\net6.0\EventsEX2.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\obj\Debug\net6.0\EventsEX2.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\EventsEX2\obj\Debug\net6.0\ref\EventsEX2.dll

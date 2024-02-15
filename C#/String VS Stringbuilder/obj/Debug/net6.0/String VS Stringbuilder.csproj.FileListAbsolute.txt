@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\bin\Debug\net6.0\String VS Stringbuilder.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\bin\Debug\net6.0\String VS Stringbuilder.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\bin\Debug\net6.0\String VS Stringbuilder.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\bin\Debug\net6.0\String VS Stringbuilder.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\bin\Debug\net6.0\String VS Stringbuilder.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\obj\Debug\net6.0\String VS Stringbuilder.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\obj\Debug\net6.0\String VS Stringbuilder.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\obj\Debug\net6.0\String VS Stringbuilder.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\obj\Debug\net6.0\String VS Stringbuilder.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\obj\Debug\net6.0\String VS Stringbuilder.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\obj\Debug\net6.0\refint\String VS Stringbuilder.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\obj\Debug\net6.0\String VS Stringbuilder.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\obj\Debug\net6.0\String VS Stringbuilder.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\String VS Stringbuilder\obj\Debug\net6.0\ref\String VS Stringbuilder.dll

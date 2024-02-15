@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\bin\Debug\net6.0\ImplicitTypedLocalVariable.exe
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\bin\Debug\net6.0\ImplicitTypedLocalVariable.deps.json
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\bin\Debug\net6.0\ImplicitTypedLocalVariable.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\bin\Debug\net6.0\ImplicitTypedLocalVariable.dll
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\bin\Debug\net6.0\ImplicitTypedLocalVariable.pdb
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\obj\Debug\net6.0\ImplicitTypedLocalVariable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\obj\Debug\net6.0\ImplicitTypedLocalVariable.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\obj\Debug\net6.0\ImplicitTypedLocalVariable.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\obj\Debug\net6.0\ImplicitTypedLocalVariable.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\obj\Debug\net6.0\ImplicitTypedLocalVariable.dll
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\obj\Debug\net6.0\refint\ImplicitTypedLocalVariable.dll
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\obj\Debug\net6.0\ImplicitTypedLocalVariable.pdb
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\obj\Debug\net6.0\ImplicitTypedLocalVariable.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\LINQ\ImplicitTypedLocalVariable\obj\Debug\net6.0\ref\ImplicitTypedLocalVariable.dll

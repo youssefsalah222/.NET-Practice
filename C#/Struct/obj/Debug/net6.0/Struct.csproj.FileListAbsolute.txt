@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\bin\Debug\net6.0\Struct.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\bin\Debug\net6.0\Struct.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\bin\Debug\net6.0\Struct.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\bin\Debug\net6.0\Struct.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\bin\Debug\net6.0\Struct.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\obj\Debug\net6.0\Struct.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\obj\Debug\net6.0\Struct.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\obj\Debug\net6.0\Struct.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\obj\Debug\net6.0\Struct.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\obj\Debug\net6.0\Struct.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\obj\Debug\net6.0\refint\Struct.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\obj\Debug\net6.0\Struct.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\obj\Debug\net6.0\Struct.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Struct\obj\Debug\net6.0\ref\Struct.dll

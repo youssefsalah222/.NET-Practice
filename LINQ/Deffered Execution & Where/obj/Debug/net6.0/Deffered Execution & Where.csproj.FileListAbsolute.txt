@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\bin\Debug\net6.0\Deffered Execution & Where.exe
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\bin\Debug\net6.0\Deffered Execution & Where.deps.json
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\bin\Debug\net6.0\Deffered Execution & Where.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\bin\Debug\net6.0\Deffered Execution & Where.dll
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\bin\Debug\net6.0\Deffered Execution & Where.pdb
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\obj\Debug\net6.0\Deffered Execution & Where.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\obj\Debug\net6.0\Deffered Execution & Where.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\obj\Debug\net6.0\Deffered Execution & Where.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\obj\Debug\net6.0\Deffered Execution & Where.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\obj\Debug\net6.0\Deffered Execution & Where.dll
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\obj\Debug\net6.0\refint\Deffered Execution & Where.dll
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\obj\Debug\net6.0\Deffered Execution & Where.pdb
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\obj\Debug\net6.0\Deffered Execution & Where.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\LINQ\Deffered Execution & Where\obj\Debug\net6.0\ref\Deffered Execution & Where.dll

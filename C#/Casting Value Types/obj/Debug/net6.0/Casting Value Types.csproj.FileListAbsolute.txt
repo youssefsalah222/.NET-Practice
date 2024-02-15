@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\bin\Debug\net6.0\Casting Value Types.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\bin\Debug\net6.0\Casting Value Types.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\bin\Debug\net6.0\Casting Value Types.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\bin\Debug\net6.0\Casting Value Types.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\bin\Debug\net6.0\Casting Value Types.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\obj\Debug\net6.0\Casting Value Types.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\obj\Debug\net6.0\Casting Value Types.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\obj\Debug\net6.0\Casting Value Types.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\obj\Debug\net6.0\Casting Value Types.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\obj\Debug\net6.0\Casting Value Types.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\obj\Debug\net6.0\refint\Casting Value Types.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\obj\Debug\net6.0\Casting Value Types.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\obj\Debug\net6.0\Casting Value Types.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Casting Value Types\obj\Debug\net6.0\ref\Casting Value Types.dll

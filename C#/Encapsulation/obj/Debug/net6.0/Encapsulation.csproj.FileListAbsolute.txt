@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\bin\Debug\net6.0\Encapsulation.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\bin\Debug\net6.0\Encapsulation.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\bin\Debug\net6.0\Encapsulation.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\bin\Debug\net6.0\Encapsulation.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\bin\Debug\net6.0\Encapsulation.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\obj\Debug\net6.0\Encapsulation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\obj\Debug\net6.0\Encapsulation.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\obj\Debug\net6.0\Encapsulation.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\obj\Debug\net6.0\Encapsulation.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\obj\Debug\net6.0\refint\Encapsulation.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\obj\Debug\net6.0\Encapsulation.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\obj\Debug\net6.0\Encapsulation.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Encapsulation\obj\Debug\net6.0\ref\Encapsulation.dll

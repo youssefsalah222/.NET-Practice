@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\bin\Debug\net6.0\Abstract.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\bin\Debug\net6.0\Abstract.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\bin\Debug\net6.0\Abstract.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\bin\Debug\net6.0\Abstract.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\bin\Debug\net6.0\Abstract.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\obj\Debug\net6.0\Abstract.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\obj\Debug\net6.0\Abstract.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\obj\Debug\net6.0\Abstract.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\obj\Debug\net6.0\Abstract.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\obj\Debug\net6.0\refint\Abstract.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\obj\Debug\net6.0\Abstract.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\obj\Debug\net6.0\Abstract.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Abstract\obj\Debug\net6.0\ref\Abstract.dll

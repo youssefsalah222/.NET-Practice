@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\bin\Debug\net6.0\Null Propagation Operator.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\bin\Debug\net6.0\Null Propagation Operator.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\bin\Debug\net6.0\Null Propagation Operator.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\bin\Debug\net6.0\Null Propagation Operator.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\bin\Debug\net6.0\Null Propagation Operator.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\obj\Debug\net6.0\Null Propagation Operator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\obj\Debug\net6.0\Null Propagation Operator.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\obj\Debug\net6.0\Null Propagation Operator.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\obj\Debug\net6.0\Null Propagation Operator.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\obj\Debug\net6.0\Null Propagation Operator.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\obj\Debug\net6.0\refint\Null Propagation Operator.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\obj\Debug\net6.0\Null Propagation Operator.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\obj\Debug\net6.0\Null Propagation Operator.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Null Propagation Operator\obj\Debug\net6.0\ref\Null Propagation Operator.dll

@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\bin\Debug\net6.0\Boxing VS Unboxing.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\bin\Debug\net6.0\Boxing VS Unboxing.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\bin\Debug\net6.0\Boxing VS Unboxing.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\bin\Debug\net6.0\Boxing VS Unboxing.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\bin\Debug\net6.0\Boxing VS Unboxing.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\obj\Debug\net6.0\Boxing VS Unboxing.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\obj\Debug\net6.0\Boxing VS Unboxing.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\obj\Debug\net6.0\Boxing VS Unboxing.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\obj\Debug\net6.0\Boxing VS Unboxing.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\obj\Debug\net6.0\Boxing VS Unboxing.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\obj\Debug\net6.0\refint\Boxing VS Unboxing.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\obj\Debug\net6.0\Boxing VS Unboxing.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\obj\Debug\net6.0\Boxing VS Unboxing.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Boxing VS Unboxing\obj\Debug\net6.0\ref\Boxing VS Unboxing.dll

@@ -1,0 +1,14 @@
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\bin\Debug\net6.0\Indexer.exe
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\bin\Debug\net6.0\Indexer.deps.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\bin\Debug\net6.0\Indexer.runtimeconfig.json
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\bin\Debug\net6.0\Indexer.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\bin\Debug\net6.0\Indexer.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\obj\Debug\net6.0\Indexer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfoInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\obj\Debug\net6.0\Indexer.AssemblyInfo.cs
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\obj\Debug\net6.0\Indexer.csproj.CoreCompileInputs.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\obj\Debug\net6.0\Indexer.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\obj\Debug\net6.0\refint\Indexer.dll
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\obj\Debug\net6.0\Indexer.pdb
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\obj\Debug\net6.0\Indexer.genruntimeconfig.cache
+D:\Salah\D\Visual Studio Projects\Hardworking\Indexer\obj\Debug\net6.0\ref\Indexer.dll
